@@ -13,5 +13,6 @@ As a new postgraduate, this repository contains a collection of papers on bioinf
 3. [NeurIPS 2018] **CheMixNet: Mixed DNN Architectures for Predicting Chemical Properties using Multiple Molecular Representations**[[paper]](https://arxiv.org/pdf/1811.08283)
 ### AI Drug Discover(AIDD)
 1. [NeurIPS 2023] **Understanding the Limitations of Deep Models for Molecular Property Prediction: Insights and Solutions**[[paper]](https://openreview.net/pdf?id=NLFqlDeuzt)
+2. [NeurIPS 2024] **FlexMol: A Flexible Toolkit for Benchmarking Molecular Relational Learning**[[paper]](https://nips.cc/virtual/2024/poster/97484)
 ### Overview
 1. **Advances of Deep Learning in Protein Science: A Comprehensive Survey**[[paper]](https://arxiv.org/pdf/2403.05314)
