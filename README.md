@@ -3,6 +3,8 @@ As a new postgraduate, this repository contains a collection of papers on bioinf
 ## Year 2024
 ### CPI
 1. [AAAI 2024] **PSC-CPI: Multi-Scale Protein Sequence-Structure Contrasting for Efficient and Generalizable Compound-Protein Interaction Prediction**[[paper]](https://arxiv.org/pdf/2402.08198)
+2. [Bioinformatics 2020] **TransformerCPI: improving compound–protein interaction prediction by sequence-based deep learning with self-attention mechanism and label reversal experiments**[[paper]](https://academic.oup.com/bioinformatics/article-pdf/36/16/4406/50676855/btaa524.pdf)
+3. [Bioinformatics 2021] **GraphDTA: predicting drug–target binding affinity with graph neural networks**[[paper]](https://academic.oup.com/bioinformatics/article-pdf/37/8/1140/50340643/btaa921.pdf)
 ### PPI
 1. [ICLR 2024] **MAPE-PPI: TOWARDS EFFECTIVE AND EFFICIENT PROTEIN-PROTEIN INTERACTION PREDICTION VIA MICROENVIRONMENT-AWARE PROTEIN EMBEDDING**[[paper]](https://arxiv.org/pdf/2402.14391)
 2. [NeurIPS 2024] **FlexMol: A Flexible Toolkit for Benchmarking Molecular Relational Learning**[[paper]](https://steven51516.github.io/assets/pdf/flexmol.pdf)
