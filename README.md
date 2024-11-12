@@ -20,6 +20,6 @@ As a new postgraduate, this repository contains a collection of papers on bioinf
 ### AI Drug Discover(AIDD)
 1. [NeurIPS 2023] **Understanding the Limitations of Deep Models for Molecular Property Prediction: Insights and Solutions**[[paper]](https://openreview.net/pdf?id=NLFqlDeuzt)
 ### Protein Sequencing
-1. [NeurIPS 2024] **Towards Robust De Novo Peptide Sequencing in Proteomics against Data Biases**[[paper]](https://arxiv.org/abs/2403.07013)
+1. [NeurIPS 2024] **Towards Robust De Novo Peptide Sequencing in Proteomics against Data Biases**[[paper]](https://openreview.net/pdf?id=0zfUiSX5si)
 ### Overview
 1. **Advances of Deep Learning in Protein Science: A Comprehensive Survey**[[paper]](https://arxiv.org/pdf/2403.05314)
