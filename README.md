@@ -18,6 +18,7 @@ As a new postgraduate, this repository contains a collection of papers on bioinf
 6. [NeurIPS 2021] **Multi-Scale Representation Learning on Proteins**[[paper]](https://openreview.net/pdf?id=-xEk43f_EO6)
 7. [NeurIPS 2024] **MMSite: A Multi-modal Framework for the Identification of Active Sites in Proteins**[[paper]](https://openreview.net/pdf?id=XHdwlbNSVb)
 8. [ICLR 2024] **Learning Complete Protein Representation by Dynamically Coupling of Sequence and Structure**[[paper]](https://openreview.net/pdf?id=0e5uOaJxo1)
+9. [] **Learning from protein structure with geometric vector perceptrons**[[paper]](https://arxiv.org/pdf/2009.01411)
 ### Molecular Property Prediction(MMP)
 1. [BIB 2022] **Attention-wise masked graph contrastive learning for predicting molecular property** [[paper]](https://doi.org/10.1093/bib/bbac303)
 2. [Bioinformatics 2023] **Molecular property prediction by semantic-invariant contrastive learning** [[paper]](https://doi.org/10.1093/bioinformatics/btad462)
