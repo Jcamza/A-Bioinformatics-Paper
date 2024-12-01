@@ -6,6 +6,7 @@ As a new postgraduate, this repository contains a collection of papers on bioinf
 2. [Bioinformatics 2020] **TransformerCPI: improving compound–protein interaction prediction by sequence-based deep learning with self-attention mechanism and label reversal experiments**[[paper]](https://academic.oup.com/bioinformatics/article-pdf/36/16/4406/50676855/btaa524.pdf)
 3. [Bioinformatics 2021] **GraphDTA: predicting drug–target binding affinity with graph neural networks**[[paper]](https://academic.oup.com/bioinformatics/article-pdf/37/8/1140/50340643/btaa921.pdf)
 4. [Bioinformatics 2022] **HyperAttentionDTI: improving drug–protein interaction prediction by sequence-based deep learning with attention mechanism**[[paper]](https://academic.oup.com/bioinformatics/article-pdf/38/3/655/49008432/btab715.pdf)
+5. [Nature Communications 2024] ** PROFSA: SELF-SUPERVISED POCKET PRETRAINING VIA PROTEIN FRAGMENT-SURROUNDINGS ALIGNMEN**[[paper]](https://arxiv.org/pdf/2310.07229)
 ### PPI
 1. [ICLR 2024] **MAPE-PPI: TOWARDS EFFECTIVE AND EFFICIENT PROTEIN-PROTEIN INTERACTION PREDICTION VIA MICROENVIRONMENT-AWARE PROTEIN EMBEDDING**[[paper]](https://openreview.net/pdf?id=itGkF993gz)
 2. [NeurIPS 2024] **FlexMol: A Flexible Toolkit for Benchmarking Molecular Relational Learning**[[paper]](https://steven51516.github.io/assets/pdf/flexmol.pdf)
@@ -32,9 +33,17 @@ As a new postgraduate, this repository contains a collection of papers on bioinf
 10. [ICLR 2024] **PRE-TRAINING SEQUENCE, STRUCTURE, AND SURFACE FEATURES FOR COMPREHENSIVE PROTEIN REPRESENTATION LEARNING**[[paper]](https://openreview.net/pdf?id=BEH4mGo7zP)
 11. [AAAI 2024] **Improving PTM Site Prediction by Coupling of Multi-Granularity Structure and Multi-Scale Sequence Representation**[[paper]](https://arxiv.org/pdf/2401.10211)
 12. [ICLR 2024] **SAPROT: PROTEIN LANGUAGE MODELING WITH STRUCTURE-AWARE VOCABULARY**[[paper]](https://openreview.net/pdf?id=6MRm3G4NiU)
+13. [Bioinformatics 2024] **Multi-level Interaction Modeling for Protein Mutational Effect Prediction**[[paper]](https://arxiv.org/pdf/2405.17802)
 ### AI Drug Discover(AIDD)
 1. [NeurIPS 2023] **Understanding the Limitations of Deep Models for Molecular Property Prediction: Insights and Solutions**[[paper]](https://openreview.net/pdf?id=NLFqlDeuzt)
+2. **ACross-Field Fusion Strategy for Drug–Target Interaction Prediction**[[paper]](https://arxiv.org/pdf/2405.14545)
 ### Protein Sequencing
 1. [NeurIPS 2024] **Towards Robust De Novo Peptide Sequencing in Proteomics against Data Biases**[[paper]](https://openreview.net/pdf?id=0zfUiSX5si)
 ### Overview
 1. **Advances of Deep Learning in Protein Science: A Comprehensive Survey**[[paper]](https://arxiv.org/pdf/2403.05314)
+### Retrieval
+1. [Science 2022] **Fast and accurate protein structure search with Foldseek**[[paper]](https://www.nature.com/articles/s41587-023-01773-0.pdf)
+2. [Nature Methods 2021] **Building datasets and benchmarks for deep learning on protein structures**[[paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/b6167294ed3d6fc61e11e1592ce5cb77-Paper-Datasets_and_Benchmarks.pdf)
+3. [Nature Communications 2024] **DrugCLIP: Contrastive Protein-Molecule Representation Learning for Virtual Screening**[[paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/8bd31288ad8e9a31d519fdeede7ee47d-Paper-Conference.pdf)
+#### Benchmark
+1. [Bioinformatics 2024] **CARE:aBenchmark Suite for the Classification and Retrieval of Enzymes**[[paper]](https://openreview.net/pdf?id=PFwlw9bnAr)
