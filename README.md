@@ -40,6 +40,8 @@ As a new postgraduate, this repository contains a collection of papers on bioinf
 2. **ACross-Field Fusion Strategy for Drug–Target Interaction Prediction**[[paper]](https://arxiv.org/pdf/2405.14545)
 ### Protein Sequencing
 1. [NeurIPS 2024] **Towards Robust De Novo Peptide Sequencing in Proteomics against Data Biases**[[paper]](https://openreview.net/pdf?id=0zfUiSX5si)
+### Graph Contrastive Learning
+1. [Advanced Science 2024] **Cross-Modal Graph Contrastive Learning with Cellular Images**[[paper]](https://onlinelibrary.wiley.com/doi/pdf/10.1002/advs.202404845)
 ### Overview
 1. **Advances of Deep Learning in Protein Science: A Comprehensive Survey**[[paper]](https://arxiv.org/pdf/2403.05314)
 ### Retrieval
