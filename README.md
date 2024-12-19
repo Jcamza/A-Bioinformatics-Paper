@@ -48,5 +48,7 @@ As a new postgraduate, this repository contains a collection of papers on bioinf
 1. [Science 2022] **Fast and accurate protein structure search with Foldseek**[[paper]](https://www.nature.com/articles/s41587-023-01773-0.pdf)
 2. [Nature Methods 2021] **Building datasets and benchmarks for deep learning on protein structures**[[paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/b6167294ed3d6fc61e11e1592ce5cb77-Paper-Datasets_and_Benchmarks.pdf)
 3. [Nature Communications 2024] **DrugCLIP: Contrastive Protein-Molecule Representation Learning for Virtual Screening**[[paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/8bd31288ad8e9a31d519fdeede7ee47d-Paper-Conference.pdf)
-#### Benchmark
-1. [Bioinformatics 2024] **CARE:aBenchmark Suite for the Classification and Retrieval of Enzymes**[[paper]](https://openreview.net/pdf?id=PFwlw9bnAr)
+### Benchmark
+1. [Bioinformatics 2024] **CARE:a Benchmark Suite for the Classification and Retrieval of Enzymes**[[paper]](https://openreview.net/pdf?id=PFwlw9bnAr)
+### Others
+1. [CVPR 2024] **SaCo Loss: Sample-wise Affinity Consistency for Vision-Language Pre-training**[[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Wu_SaCo_Loss_Sample-wise_Affinity_Consistency_for_Vision-Language_Pre-training_CVPR_2024_paper.pdf)
