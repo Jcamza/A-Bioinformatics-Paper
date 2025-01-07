@@ -51,6 +51,7 @@ As a new postgraduate, this repository contains a collection of papers on bioinf
 ### Benchmark
 1. [Bioinformatics 2024] **CARE:a Benchmark Suite for the Classification and Retrieval of Enzymes**[[paper]](https://openreview.net/pdf?id=PFwlw9bnAr)
 2. [Bioinformatics 2021] **PPB-Affinity**[[code]](https://github.com/ChenPy00/PPB-Affinity?tab=readme-ov-file)
+3. [Cell Systems 2021] **ReactZyme: A Benchmark for Enzyme-Reaction Prediction**[[paper]](https://zhenglab.sjtu.edu.cn/uploadfile/ueditor/file/202410/1728892818c60954.pdf)
 ### Others
 1. [CVPR 2024] **SaCo Loss: Sample-wise Affinity Consistency for Vision-Language Pre-training**[[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Wu_SaCo_Loss_Sample-wise_Affinity_Consistency_for_Vision-Language_Pre-training_CVPR_2024_paper.pdf)
 2. [CVPR 2021] **Differentiable Patch Selection for Image Recognition**[[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Cordonnier_Differentiable_Patch_Selection_for_Image_Recognition_CVPR_2021_paper.pdf)
