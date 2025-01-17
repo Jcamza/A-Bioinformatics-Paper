@@ -49,9 +49,10 @@ As a new postgraduate, this repository contains a collection of papers on bioinf
 2. [Nature Methods 2021] **Building datasets and benchmarks for deep learning on protein structures**[[paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/b6167294ed3d6fc61e11e1592ce5cb77-Paper-Datasets_and_Benchmarks.pdf)
 3. [Nature Communications 2024] **DrugCLIP: Contrastive Protein-Molecule Representation Learning for Virtual Screening**[[paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/8bd31288ad8e9a31d519fdeede7ee47d-Paper-Conference.pdf)
 ### Benchmark
-1. [Bioinformatics 2024] **CARE:a Benchmark Suite for the Classification and Retrieval of Enzymes**[[paper]](https://openreview.net/pdf?id=PFwlw9bnAr)
-2. [Bioinformatics 2021] **PPB-Affinity**[[code]](https://github.com/ChenPy00/PPB-Affinity?tab=readme-ov-file)
+1. [Bioinformatics 2021] **PPB-Affinity**[[code]](https://github.com/ChenPy00/PPB-Affinity?tab=readme-ov-file)
+2. [NeurIPS 2024] **CARE:a Benchmark Suite for the Classification and Retrieval of Enzymes**[[paper]](https://openreview.net/pdf?id=PFwlw9bnAr)
 3. [NeurIPS 2024] **ReactZyme: A Benchmark for Enzyme-Reaction Prediction**[[paper]](https://zhenglab.sjtu.edu.cn/uploadfile/ueditor/file/202410/1728892818c60954.pdf)
+4. [NeurIPS 2024] **AsEP: Benchmarking Deep Learning Methods for Antibody-specific Epitope Prediction**[[paper]](https://arxiv.org/pdf/2407.18184)
 ### Others
 1. [CVPR 2024] **SaCo Loss: Sample-wise Affinity Consistency for Vision-Language Pre-training**[[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Wu_SaCo_Loss_Sample-wise_Affinity_Consistency_for_Vision-Language_Pre-training_CVPR_2024_paper.pdf)
 2. [CVPR 2021] **Differentiable Patch Selection for Image Recognition**[[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Cordonnier_Differentiable_Patch_Selection_for_Image_Recognition_CVPR_2021_paper.pdf)
