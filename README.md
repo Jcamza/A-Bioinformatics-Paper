@@ -28,7 +28,7 @@ As a new postgraduate, this repository contains a collection of papers on bioinf
 3. [NeurIPS 2018] **CheMixNet: Mixed DNN Architectures for Predicting Chemical Properties using Multiple Molecular Representations**[[paper]](https://arxiv.org/pdf/1811.08283)
 4. [NeurIPS 2024] **S-MolSearch: 3D Semi-supervised Contrastive Learning for Bioactive Molecule Search**[[paper]](https://arxiv.org/pdf/2409.07462)
 5. [ICML 2024] **Learning to Predict Mutational Effects of Protein-Protein Interactions by Microenvironment-aware Hierarchical Prompt Learning**[[paper]](https://openreview.net/pdf?id=g89jAdrnAF)
-6. [ICML 2024] **Pre-Training Protein Bi-level Representation Through Span Mask Strategy On 3D Protein Chains**[paper]](https://openreview.net/pdf?id=qY63FnLuJ1)
+6. [ICML 2024] **Pre-Training Protein Bi-level Representation Through Span Mask Strategy On 3D Protein Chains**[[paper]](https://openreview.net/pdf?id=qY63FnLuJ1)
 7. [ICLR 2024] **PROTEIN-LIGAND BINDING REPRESENTATION LEARNING FROM FINE-GRAINED INTERACTIONS**[[paper]](https://openreview.net/pdf?id=AXbN2qMNiW)
 8. [ICLR 2024] **LEARNING TO DESIGN PROTEIN–PROTEIN INTERACTIONS WITH ENHANCED GENERALIZATION**[[paper]](https://openreview.net/pdf?id=xcMmebCT7s)
 9. [ICLR 2024] **EVALUATING REPRESENTATION LEARNING ON THE PROTEIN STRUCTURE UNIVERSE**[[paper]](https://openreview.net/pdf?id=sTYuRVrdK3)
