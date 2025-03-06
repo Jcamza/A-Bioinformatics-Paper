@@ -34,7 +34,7 @@ As a new postgraduate, this repository contains a collection of papers on bioinf
 9. [ICLR 2024] **EVALUATING REPRESENTATION LEARNING ON THE PROTEIN STRUCTURE UNIVERSE**[[paper]](https://openreview.net/pdf?id=sTYuRVrdK3)
 10. [ICLR 2024] **PRE-TRAINING SEQUENCE, STRUCTURE, AND SURFACE FEATURES FOR COMPREHENSIVE PROTEIN REPRESENTATION LEARNING**[[paper]](https://openreview.net/pdf?id=BEH4mGo7zP)
 11. [AAAI 2024] **Improving PTM Site Prediction by Coupling of Multi-Granularity Structure and Multi-Scale Sequence Representation**[[paper]](https://arxiv.org/pdf/2401.10211)
-12. [ICLR 2024] **SAPROT: PROTEIN LANGUAGE MODELING WITH STRUCTURE-AWARE VOCABULARY**[[paper]](https://openreview.net/pdf?id=6MRm3G4NiU)[[tweet]](https://blog.csdn.net/qq_61219755/article/details/144692894)
+12. [ICLR 2024] **SaProt: PROTEIN LANGUAGE MODELING WITH STRUCTURE-AWARE VOCABULARY**[[paper]](https://openreview.net/pdf?id=6MRm3G4NiU)[[tweet]](https://blog.csdn.net/qq_61219755/article/details/144692894)
 13. [Bioinformatics 2024] **Multi-level Interaction Modeling for Protein Mutational Effect Prediction**[[paper]](https://arxiv.org/pdf/2405.17802)
 ### AI Drug Discover(AIDD)
 1. [NeurIPS 2023] **Understanding the Limitations of Deep Models for Molecular Property Prediction: Insights and Solutions**[[paper]](https://openreview.net/pdf?id=NLFqlDeuzt)
