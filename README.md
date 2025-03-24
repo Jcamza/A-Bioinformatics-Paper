@@ -17,7 +17,7 @@ As a new postgraduate, this repository contains a collection of papers on bioinf
 5. [ICML 2024] **ESM All-Atom: Multi-Scale Protein Language Model for Unified Molecular Modeling**[[paper]](https://arxiv.org/abs/2403.12995)[[tweet]](https://air.tsinghua.edu.cn/info/1007/2271.htm)
 6. [NeurIPS 2024] **Learning Complete Protein Representation by Dynamically Coupling of Sequence and Structure**[[paper]](https://neurips.cc/virtual/2024/poster/96915)
 7. [NeurIPS 2024] **MMSite: A Multi-modal Framework for the Identification of Active Sites in Proteins**[[paper]](https://openreview.net/pdf?id=XHdwlbNSVb)
-8. [NeurIPS 2023] **ProtGO: Function-Guided Protein Modeling for Unified Representation Learning**[[paper]](https://openreview.net/pdf?id=0oUutV92YF)
+8. [NeurIPS 2024] **ProtGO: Function-Guided Protein Modeling for Unified Representation Learning**[[paper]](https://openreview.net/pdf?id=0oUutV92YF)
 9. [Bioinformatics 2022] **Cross-modality and self-supervised protein embedding for compound–protein affinity and contact prediction**[[paper]](https://academic.oup.com/bioinformatics/article-pdf/38/Supplement_2/ii68/49886672/btac470.pdf)
 10. [ICLR 2021] **Learning from protein structure with geometric vector perceptrons**[[paper]](https://arxiv.org/pdf/2009.01411)
 11. [NeurIPS 2021] **Multi-Scale Representation Learning on Proteins**[[paper]](https://openreview.net/pdf?id=-xEk43f_EO6)
