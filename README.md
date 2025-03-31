@@ -65,3 +65,6 @@ As a new postgraduate, this repository contains a collection of papers on bioinf
 4. [NeurIPS 2024] **Enhancing Protein Mutation Effect Prediction through a Retrieval-Augmented Framework**[[paper]](https://openreview.net/pdf?id=LgeHswiWef)
 5. [NeurIPS 2024] **Kermut: Composite kernel regression for protein variant effects**[[paper]](https://arxiv.org/pdf/2407.00002)
 6. [NeurIPS 2024] **MutaPLM: Protein Language Modeling for Mutation Explanation and Engineering**[[paper]](https://arxiv.org/pdf/2410.22949)
+7. [NeurIPS 2024] **Evolution-Inspired Loss Functions for Protein Representation Learning**[[paper]](https://openreview.net/pdf?id=y5L8W0KRUX)
+8. [NeurIPS 2024] **MSAGPT:Neural Prompting Protein Structure Prediction via MSA Generative Pre-Training**[[paper]](https://arxiv.org/pdf/2406.05347)
+9. [NeurIPS 2024] **Ultrafast classical phylogenetic method beats large protein language models on variant effect prediction**[[paper]](https://openreview.net/pdf?id=H7mENkYB2J)
