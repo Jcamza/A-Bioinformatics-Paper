@@ -64,3 +64,4 @@ As a new postgraduate, this repository contains a collection of papers on bioinf
 3. [NeurIPS 2024] **FlexSBDD: Structure-Based Drug Design with Flexible Protein Modeling**[[paper]](https://arxiv.org/pdf/2409.19645)
 4. [NeurIPS 2024] **Enhancing Protein Mutation Effect Prediction through a Retrieval-Augmented Framework**[[paper]](https://openreview.net/pdf?id=LgeHswiWef)
 5. [NeurIPS 2024] **Kermut: Composite kernel regression for protein variant effects**[[paper]](https://arxiv.org/pdf/2407.00002)
+6. [NeurIPS 2024] **MutaPLM: Protein Language Modeling for Mutation Explanation and Engineering**[[paper]](https://arxiv.org/pdf/2410.22949)
