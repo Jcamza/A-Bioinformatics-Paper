@@ -59,3 +59,6 @@ As a new postgraduate, this repository contains a collection of papers on bioinf
 1. [CVPR 2024] **SaCo Loss: Sample-wise Affinity Consistency for Vision-Language Pre-training**[[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Wu_SaCo_Loss_Sample-wise_Affinity_Consistency_for_Vision-Language_Pre-training_CVPR_2024_paper.pdf)
 2. [CVPR 2021] **Differentiable Patch Selection for Image Recognition**[[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Cordonnier_Differentiable_Patch_Selection_for_Image_Recognition_CVPR_2021_paper.pdf)
 ### NEWS
+1. [ICML 2024] **Learning to Predict Mutational Effects of Protein-Protein Interactions by Microenvironment-aware Hierarchical Prompt Learning**[[paper]](https://arxiv.org/pdf/2405.10348)
+2. [ICLR 2024] **Decoupling Weighing and Selecting for Integrating Multiple Graph Pre-training Tasks**[[paper]](https://arxiv.org/pdf/2403.01400)
+3. [NeurIPS 2024] **FlexSBDD: Structure-Based Drug Design with Flexible Protein Modeling**[[paper]](https://arxiv.org/pdf/2409.19645)
