@@ -62,3 +62,5 @@ As a new postgraduate, this repository contains a collection of papers on bioinf
 1. [ICML 2024] **Learning to Predict Mutational Effects of Protein-Protein Interactions by Microenvironment-aware Hierarchical Prompt Learning**[[paper]](https://arxiv.org/pdf/2405.10348)
 2. [ICLR 2024] **Decoupling Weighing and Selecting for Integrating Multiple Graph Pre-training Tasks**[[paper]](https://arxiv.org/pdf/2403.01400)
 3. [NeurIPS 2024] **FlexSBDD: Structure-Based Drug Design with Flexible Protein Modeling**[[paper]](https://arxiv.org/pdf/2409.19645)
+4. [NeurIPS 2024] **Enhancing Protein Mutation Effect Prediction through a Retrieval-Augmented Framework**[[paper]](https://openreview.net/pdf?id=LgeHswiWef)
+5. [NeurIPS 2024] **Kermut: Composite kernel regression for protein variant effects**[[paper]](https://arxiv.org/pdf/2407.00002)
