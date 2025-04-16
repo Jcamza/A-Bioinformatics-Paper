@@ -31,32 +31,32 @@ As a new postgraduate, this repository contains a collection of papers on bioinf
 ### AI Drug Discover(AIDD)
 1. [NeurIPS 2023] **Understanding the Limitations of Deep Models for Molecular Property Prediction: Insights and Solutions**[[paper]](https://openreview.net/pdf?id=NLFqlDeuzt)
 2. **ACross-Field Fusion Strategy for Drug–Target Interaction Prediction**[[paper]](https://arxiv.org/pdf/2405.14545)
+3. [NeurIPS 2024] **FlexSBDD: Structure-Based Drug Design with Flexible Protein Modeling**[[paper]](https://arxiv.org/pdf/2409.19645)
+### PLM
+5. [NeurIPS 2024] **MutaPLM: Protein Language Modeling for Mutation Explanation and Engineering**[[paper]](https://arxiv.org/pdf/2410.22949)
+6. 8. [NeurIPS 2024] **Ultrafast classical phylogenetic method beats large protein language models on variant effect prediction**[[paper]](https://openreview.net/pdf?id=H7mENkYB2J)
 ### Protein Sequencing
 1. [NeurIPS 2024] **Towards Robust De Novo Peptide Sequencing in Proteomics against Data Biases**[[paper]](https://openreview.net/pdf?id=0zfUiSX5si)
 ### Graph Contrastive Learning
 1. [Advanced Science 2024] **Cross-Modal Graph Contrastive Learning with Cellular Images**[[paper]](https://onlinelibrary.wiley.com/doi/pdf/10.1002/advs.202404845)
 ### Predicting Protein Function
 1. [Nature communitications 2025] **DPFunc: accurately predicting protein function via deep learning with domain-guided structure information**[[paper]](https://pubmed.ncbi.nlm.nih.gov/39746897/)
-2. [NeurIPS 2024] **CARE:a Benchmark Suite for the Classification and Retrieval of Enzymes**[[paper]](https://openreview.net/pdf?id=PFwlw9bnAr)
-3. [NeurIPS 2024] **ReactZyme: A Benchmark for Enzyme-Reaction Prediction**[[paper]](https://zhenglab.sjtu.edu.cn/uploadfile/ueditor/file/202410/1728892818c60954.pdf) 
+2. [ICLR 2024] **Decoupling Weighing and Selecting for Integrating Multiple Graph Pre-training Tasks**[[paper]](https://arxiv.org/pdf/2403.01400)
 ### Retrieval
 1. [Nature Communications 2024] **DrugCLIP: Contrastive Protein-Molecule Representation Learning for Virtual Screening**[[paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/8bd31288ad8e9a31d519fdeede7ee47d-Paper-Conference.pdf)
 
 ### Benchmark
-
+1. [NeurIPS 2024] **CARE:a Benchmark Suite for the Classification and Retrieval of Enzymes**[[paper]](https://openreview.net/pdf?id=PFwlw9bnAr)
+2. [NeurIPS 2024] **ReactZyme: A Benchmark for Enzyme-Reaction Prediction**[[paper]](https://zhenglab.sjtu.edu.cn/uploadfile/ueditor/file/202410/1728892818c60954.pdf) 
 3. [NeurIPS 2024] **AsEP: Benchmarking Deep Learning Methods for Antibody-specific Epitope Prediction**[[paper]](https://arxiv.org/pdf/2407.18184)
 4. [Bioinformatics 2021] **PPB-Affinity**[[code]](https://github.com/ChenPy00/PPB-Affinity?tab=readme-ov-file)
 5. [Nature Methods 2021] **Building datasets and benchmarks for deep learning on protein structures**[[paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/b6167294ed3d6fc61e11e1592ce5cb77-Paper-Datasets_and_Benchmarks.pdf)
 ### NEWS
-1. [ICLR 2024] **Decoupling Weighing and Selecting for Integrating Multiple Graph Pre-training Tasks**[[paper]](https://arxiv.org/pdf/2403.01400)
-2. [NeurIPS 2024] **FlexSBDD: Structure-Based Drug Design with Flexible Protein Modeling**[[paper]](https://arxiv.org/pdf/2409.19645)
-3. [NeurIPS 2024] **Enhancing Protein Mutation Effect Prediction through a Retrieval-Augmented Framework**[[paper]](https://openreview.net/pdf?id=LgeHswiWef)
-4. [NeurIPS 2024] **Kermut: Composite kernel regression for protein variant effects**[[paper]](https://arxiv.org/pdf/2407.00002)
-5. [NeurIPS 2024] **MutaPLM: Protein Language Modeling for Mutation Explanation and Engineering**[[paper]](https://arxiv.org/pdf/2410.22949)
-6. [NeurIPS 2024] **Evolution-Inspired Loss Functions for Protein Representation Learning**[[paper]](https://openreview.net/pdf?id=y5L8W0KRUX)
-7. [NeurIPS 2024] **MSAGPT:Neural Prompting Protein Structure Prediction via MSA Generative Pre-Training**[[paper]](https://arxiv.org/pdf/2406.05347)
-8. [NeurIPS 2024] **Ultrafast classical phylogenetic method beats large protein language models on variant effect prediction**[[paper]](https://openreview.net/pdf?id=H7mENkYB2J)
-9. #[ICLR 2025] **CROSS THE GAP: EXPOSING THE INTRA-MODAL MISALIGNMENT IN CLIP VIA MODALITY INVERSION**[[paper]](https://arxiv.org/pdf/2502.04263?)
-10. #[ICCV 2023] **Zero-Shot Composed Image Retrieval with Textual Inversion**[[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Baldrati_Zero-Shot_Composed_Image_Retrieval_with_Textual_Inversion_ICCV_2023_paper.pdf)
-11. [BIB 2025] **ProteinF3S: boosting enzyme function prediction by fusing protein sequence, structure, and surface**[[paper]](https://academic.oup.com/bib/article/26/1/bbae695/7942219?login=false)
-12. [ICLR 2025] **Distilling Structural Representations into Protein Sequence Models**[[paper]](https://openreview.net/pdf?id=KXrgDM3mVD)
+1. [NeurIPS 2024] **Enhancing Protein Mutation Effect Prediction through a Retrieval-Augmented Framework**[[paper]](https://openreview.net/pdf?id=LgeHswiWef)
+2. [NeurIPS 2024] **Kermut: Composite kernel regression for protein variant effects**[[paper]](https://arxiv.org/pdf/2407.00002)
+3. [NeurIPS 2024] **Evolution-Inspired Loss Functions for Protein Representation Learning**[[paper]](https://openreview.net/pdf?id=y5L8W0KRUX)
+4. [NeurIPS 2024] **MSAGPT:Neural Prompting Protein Structure Prediction via MSA Generative Pre-Training**[[paper]](https://arxiv.org/pdf/2406.05347)
+5. #[ICLR 2025] **CROSS THE GAP: EXPOSING THE INTRA-MODAL MISALIGNMENT IN CLIP VIA MODALITY INVERSION**[[paper]](https://arxiv.org/pdf/2502.04263?)
+6. #[ICCV 2023] **Zero-Shot Composed Image Retrieval with Textual Inversion**[[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Baldrati_Zero-Shot_Composed_Image_Retrieval_with_Textual_Inversion_ICCV_2023_paper.pdf)
+7. [BIB 2025] **ProteinF3S: boosting enzyme function prediction by fusing protein sequence, structure, and surface**[[paper]](https://academic.oup.com/bib/article/26/1/bbae695/7942219?login=false)
+8. [ICLR 2025] **Distilling Structural Representations into Protein Sequence Models**[[paper]](https://openreview.net/pdf?id=KXrgDM3mVD)
