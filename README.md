@@ -59,4 +59,4 @@ As a new postgraduate, this repository contains a collection of papers on bioinf
 9. #[ICLR 2025] **CROSS THE GAP: EXPOSING THE INTRA-MODAL MISALIGNMENT IN CLIP VIA MODALITY INVERSION**[[paper]](https://arxiv.org/pdf/2502.04263?)
 10. #[ICCV 2023] **Zero-Shot Composed Image Retrieval with Textual Inversion**[[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Baldrati_Zero-Shot_Composed_Image_Retrieval_with_Textual_Inversion_ICCV_2023_paper.pdf)
 11. [BIB 2025] **ProteinF3S: boosting enzyme function prediction by fusing protein sequence, structure, and surface**[[paper]](https://academic.oup.com/bib/article/26/1/bbae695/7942219?login=false)
-12. [ICLR 2025] **Distilling Structural Representations into Protein Sequence Models**[[paper]](https://openreview.net/forum?id=KXrgDM3mVD)
+12. [ICLR 2025] **Distilling Structural Representations into Protein Sequence Models**[[paper]](https://openreview.net/pdf?id=KXrgDM3mVD)
